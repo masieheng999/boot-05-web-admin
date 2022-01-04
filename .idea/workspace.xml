@@ -22,14 +22,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9cb669-e0a1-4606-93b3-21b359857e19" name="Default Changelist" comment="" />
+    <list default="true" id="aa9cb669-e0a1-4606-93b3-21b359857e19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/admin/bean/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/admin/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/admin/bean/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -39,7 +51,9 @@
     </option>
   </component>
   <component name="ProjectId" id="22pJ3FtDAulaPj9HnetWUV8HR87" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -58,6 +72,17 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Boot05WebAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="boot-05-web-admin" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.admin.Boot05WebAdminApplication" />
@@ -80,6 +105,7 @@
       <workItem from="1640828320853" duration="4317000" />
       <workItem from="1640914930873" duration="1402000" />
       <workItem from="1641260601589" duration="2027000" />
+      <workItem from="1641276844049" duration="879000" />
     </task>
     <servers />
   </component>
